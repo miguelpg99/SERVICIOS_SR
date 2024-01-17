@@ -4,8 +4,11 @@ Buenas
 
 Quiero que os apunteis todos en este fichero 
 
-Sergio Rodriguez Mayor - SergioRodriguezMayor
 
+NOMBRE Y APELLIDO Y VUESTRO GIT
+MOHAMED EZZAROILI HERRADI 
+Juan Manuel Perez Gomez - Pandditta
+Sergio Rodriguez Mayor - SergioRodriguezMayor
 
 UN SALUDO 
 
